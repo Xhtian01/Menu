@@ -20,7 +20,7 @@ a:hover {
 
 .navigation {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   background-color: #2a2a2a;
   padding: 1rem;
 }
